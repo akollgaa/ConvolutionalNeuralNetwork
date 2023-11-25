@@ -1,0 +1,2 @@
+This folder contains some of the images that the CNN uses. It is differentiated from the images folder because it is meant to be a collection of images that came from a video as opposed to a single still image. 
+However at the moment it still contains test images.
